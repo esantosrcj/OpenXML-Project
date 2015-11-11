@@ -1,0 +1,9 @@
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\bin\Debug\SpreadsheetCreator.exe.config
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\bin\Debug\SpreadsheetCreator.exe
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\bin\Debug\SpreadsheetCreator.pdb
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\bin\Debug\DocumentFormat.OpenXml.dll
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\bin\Debug\OpenXmltoExcel.dll
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\bin\Debug\OpenXmltoExcel.pdb
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\obj\Debug\SpreadsheetCreator.csprojResolveAssemblyReference.cache
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\obj\Debug\SpreadsheetCreator.exe
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\SpreadsheetCreator\obj\Debug\SpreadsheetCreator.pdb

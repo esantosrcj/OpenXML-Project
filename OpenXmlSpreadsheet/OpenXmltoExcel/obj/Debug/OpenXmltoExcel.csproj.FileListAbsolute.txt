@@ -1,0 +1,4 @@
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\OpenXmltoExcel\bin\Debug\OpenXmltoExcel.dll
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\OpenXmltoExcel\bin\Debug\OpenXmltoExcel.pdb
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\OpenXmltoExcel\obj\Debug\OpenXmltoExcel.dll
+c:\users\esantos\documents\visual studio 2013\Projects\SpreadsheetCreator\OpenXmltoExcel\obj\Debug\OpenXmltoExcel.pdb
